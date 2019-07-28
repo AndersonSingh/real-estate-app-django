@@ -1,0 +1,2 @@
+django-admin --help
+django-admin startproject btre . # creates the project and a manage.py
